@@ -1,5 +1,1 @@
-Hello! I'm **Sasha.**
-
-My pronouns are *they/them* or *xe/xyr.*
-
-Ask me about mathematics, solarpunk, Python.
+Hello! I'm **S**, a developer and recreational mathematician. I am properly addressed as *they, them, theirs.*
